@@ -1,5 +1,5 @@
 # Basic Datatypes
-
+package com;
 public class Test
 {
  
