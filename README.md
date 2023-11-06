@@ -5,6 +5,9 @@ public class Test
  
 public static void main(String[] args)
  {
+
+  /* primitive datatypes */
+  
   //byte
   byte x = 23;
   System.out.println(x);
